@@ -1,6 +1,3 @@
-/* 记得要App.js里面引入才有用 */
-
-
 .app-container {
   display: flex;
   flex-direction: column;
